@@ -8,14 +8,16 @@
         <version>2.6.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>nl.boukenijhuis</groupId>
     <artifactId>devoxxuk2022</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>devoxxuk2022</name>
-    <description>devoxxuk2022</description>
+
     <properties>
         <java.version>11</java.version>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
