@@ -15,4 +15,10 @@ class HelloWorldTest {
     }
 
 
+    @Test
+    void testWithParameterIBM() {
+        HelloWorld.main(new String[]{"IBM"});
+    }
+
+
 }
