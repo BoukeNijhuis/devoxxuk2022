@@ -1,0 +1,7 @@
+- IntelliJ in light mode
+- Clear all breakpoints
+- Open the two "slides"
+- Put the cursors on the right positions
+- Start the jar?
+- Start the proxy?
+- Grab some water
