@@ -1,4 +1,5 @@
 - IntelliJ in light mode
+- Project tool window in production mode
 - Remove inline watches
 - Clear all breakpoints (in the popup!!!)
 - Remove remote debugging configurations

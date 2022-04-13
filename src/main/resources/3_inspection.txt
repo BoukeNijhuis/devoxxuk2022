@@ -1,0 +1,7 @@
+Inspection
+
+- Watches
+- Inline watches
+- Quick Evaluate Expression
+- Evaluate Expression
+- Stream Debugger
