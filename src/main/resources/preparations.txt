@@ -1,7 +1,10 @@
 - IntelliJ in light mode
-- Clear all breakpoints
+- Remove inline watches
+- Clear all breakpoints (in the popup!!!)
+- Remove remote debugging configurations
+- No argument in the "run" configuration
 - Open the two "slides"
 - Put the cursors on the right positions
-- Start the jar?
+- Start the jar in a terminal (java -cp target/classes devoxxuk2022.HelloWorld)
 - Start the proxy?
 - Grab some water
