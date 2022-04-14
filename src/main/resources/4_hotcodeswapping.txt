@@ -1,7 +1,6 @@
 Hot Code Swapping
 
 - Drop Frame
-- Edit Value
 - Reload Changed Classes
 - Limitations
 - Workaround
