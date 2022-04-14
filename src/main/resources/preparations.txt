@@ -7,5 +7,6 @@
 - Open the two "slides"
 - Put the cursors on the right positions
 - Start the jar in a terminal (java -cp target/classes devoxxuk2022.HelloWorld)
+- Zoom in in the terminal
 - Start the proxy?
 - Grab some water
