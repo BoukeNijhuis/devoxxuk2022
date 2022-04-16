@@ -1,6 +1,0 @@
-Breakpoints
-
-- Line
-- Method
-- Field
-- Exception
