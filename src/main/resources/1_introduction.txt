@@ -1,9 +1,7 @@
 Introduction
 
-- HelloWorld
+- Playground
 - Inspections
 - Hot code swapping
 - Remote debugging
-- Bonus: breakpoints
-
-2001: A Space Odyssey
+- Questions?

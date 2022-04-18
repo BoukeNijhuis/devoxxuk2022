@@ -1,8 +1,8 @@
 - IntelliJ in light mode
 - Project tool window in production mode
-- Remove inline watches
+- Remove inline watches (in debug tool window)
 - Clear all breakpoints (in the popup!!!)
-- Remove remote debugging configurations
+- Remove remote debugging configurations (press OK!)
 - No argument in the "run" configuration
 - Open the first two "slides"
 - Put the cursors on the right positions
