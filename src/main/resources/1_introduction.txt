@@ -1,6 +1,5 @@
 Introduction
 
-- Playground
 - Inspections
 - Hot code swapping
 - Remote debugging

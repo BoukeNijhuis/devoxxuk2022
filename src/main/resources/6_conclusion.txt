@@ -1,6 +1,5 @@
 Conclusion
 
-- Breakpoints
 - Inspections
 - Hot code swapping
 - Remote debugging

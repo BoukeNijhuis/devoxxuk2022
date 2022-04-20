@@ -6,6 +6,6 @@
 - No argument in the "run" configuration
 - Open the first two "slides"
 - Put the cursors on the right positions
-- Start the jar in a terminal (java -cp target/classes devoxxuk2022.HelloWorld)
+- Start the jar in a terminal (java -cp target/classes devoxxuk2022.HelloWorld) -> check if it says Hello!
 - Zoom in in the terminal
 - Grab some water
