@@ -1,4 +1,4 @@
-Hot Code Swapping
+Hot code swapping
 
 - Drop Frame
 - Reload Changed Classes
