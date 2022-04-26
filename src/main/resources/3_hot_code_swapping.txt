@@ -1,6 +1,6 @@
 Hot code swapping
 
-- Drop Frame
+- Example
 - Reload Changed Classes
 - Limitations
 - Workaround
