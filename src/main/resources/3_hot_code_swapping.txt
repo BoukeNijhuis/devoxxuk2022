@@ -1,6 +1,7 @@
 Hot code swapping
 
-- Example
+- Edit value
+- Advanced example
 - Reload Changed Classes
 - Limitations
 - Workaround

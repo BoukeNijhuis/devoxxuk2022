@@ -4,7 +4,7 @@
 - Clear all breakpoints (in the popup!!!)
 - Remove remote debugging configurations (press OK!)
 - No argument in the "run" configuration
-- Open the first two "slides"
+- Open the first three "slides"
 - Put the cursors on the right positions
 - Start the jar in a terminal (java -cp target/classes devoxxuk2022.HelloWorld) -> check if it says Hello!
 - Zoom in in the terminal
