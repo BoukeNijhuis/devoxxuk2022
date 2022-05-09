@@ -2,8 +2,9 @@
 - Remove inline watches (in debug tool window)
 - Clear all breakpoints (in the popup!!!)
 - Remove remote debugging configurations (press OK!)
-- Open the first three "slides" (0, 1 & HelloWorld.java)
 - Put the cursors on the right positions
 - Zoom in in the terminal
 - Start the jar in a terminal (java -cp target/classes devoxxuk2022.HelloWorld) -> check if it says Hello!
 - Grab some water
+- Drop frame before hot code swapping!!!
+- Open the first three "slides" (0, 1 & HelloWorld.java)
