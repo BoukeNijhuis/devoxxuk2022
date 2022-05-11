@@ -1,4 +1,5 @@
 - IntelliJ in light mode
+- Laptop on focus mode
 - Remove inline watches (in debug tool window)
 - Clear all breakpoints (in the popup!!!)
 - Remove remote debugging configurations (press OK!)
