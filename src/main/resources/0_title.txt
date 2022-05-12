@@ -5,4 +5,5 @@
                     IMPROVING YOUR SKILLS WITH THE DEBUGGER
 
                                 Bouke Nijhuis
-                                   CINQ ICT
+                                CTO @ CINQ ICT
+                                @BoukeNijhuis
